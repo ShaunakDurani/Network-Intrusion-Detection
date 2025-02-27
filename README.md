@@ -66,4 +66,5 @@ Publicly available datasets often contain anomalies, leading to models that achi
 
 ### **3️⃣ Simulate a DDOS**  
 1. **Run the hping command**
+   ```
    h1 hping3 -S --flood -p 80 h2
